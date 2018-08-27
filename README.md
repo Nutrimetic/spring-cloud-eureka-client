@@ -1,6 +1,6 @@
 # Spring-cloud-eureka-client
 
-Mise en place d'un client dans une architecture microservice.
+Exemple simple de mise en place d'un client dans une architecture microservice.
 
 ### Pré-requis :
 

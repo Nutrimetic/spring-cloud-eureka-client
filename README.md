@@ -1,6 +1,6 @@
 # Spring-cloud-eureka-client
 
-Exemple simple de mise en place d'un client dans une architecture microservice.
+Exemple simple de mise en place d'un client dans une architecture microservice. Le client récupère le registry à partir du serviceDiscovery et peux ainsi communiquer avec les services associés.
 
 ### Pré-requis :
 
